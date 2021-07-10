@@ -17,7 +17,7 @@ ECHO.
 wget -O %file% %url%
 
 :: Download (Basic Auth)
-:: wget -O --http-user=%username% --http-password=%password% %file% %url%
+:: wget --http-user=%username% --http-password=%password% %file% %url%
 
 :: Download (Proxy Auth)
 :: wget -e use_proxy=on -e http_proxy=http://%proxy%:%porta%/ -e proxy_user=%username% -e proxy_passwd=%password% %file% %url%
