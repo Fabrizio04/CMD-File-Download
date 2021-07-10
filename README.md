@@ -1,4 +1,4 @@
-# CMD-File-Download
+# CMD-File-Download-Windows
 Raccolta di alcuni Script di esempio per il Download diretto di File attraverso CMD su Windows
 
 Strumenti utilizzati:
